@@ -1,0 +1,28 @@
+{
+    "diet": [
+        {
+            "time": "08:00",
+            "food": [
+                "Bread",
+                "Eggs",
+                "Milk"
+            ]
+        },
+        {
+            "time": "12:00",
+            "food": [
+                "Rice",
+                "Chicken",
+                "Vegetables"
+            ]
+        },
+        {
+            "time": "18:00",
+            "food": [
+                "Rice",
+                "Fish",
+                "Vegetables"
+            ]
+        }
+    ]
+}

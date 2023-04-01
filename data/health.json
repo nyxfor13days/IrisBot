@@ -1,0 +1,7 @@
+{
+    "disease": "cancer",
+    "health": {
+        "sugar_level": 5.5,
+        "cholestrol_level": 5.5
+    }
+}

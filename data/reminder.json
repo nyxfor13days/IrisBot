@@ -1,0 +1,12 @@
+{
+    "reminder": [
+        {
+            "time": "08:00",
+            "day": "Monday"
+        },
+        {
+            "time": "04:00",
+            "day": "Sunday"
+        }
+    ]
+}

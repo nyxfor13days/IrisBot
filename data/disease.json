@@ -1,0 +1,19 @@
+{
+	"disease": [
+		{
+			"name": "common cold",
+			"food": ["chicken soup", "tea", "honey", "vitamin C", "rest"]
+		},
+		{
+			"name": "flu",
+			"food": [
+				"chicken soup",
+				"herbal tea",
+				"garlic",
+				"vitamin C",
+				"rest"
+			]
+		}
+	]
+}
+
